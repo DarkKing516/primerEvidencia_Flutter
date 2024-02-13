@@ -12,13 +12,14 @@ Este es un ejemplo básico de una aplicación Flutter que muestra un contador y 
 
 ## Modificaciones Realizadas
 
-- Se agregó un botón adicional para restablecer el contador a 0.
+- Se agregaron dos botones adicionales.
 - Se utilizó un `Row` para alinear horizontalmente los botones.
-- Se ajustó el código para centrar el texto del contador verticalmente.
-- Se aplicó un tema personalizado para la apariencia de la aplicación.
+- La idea de utilizar un `Row` para alinear horizontalmente los botones fue inspirada por la documentación oficial de Flutter, específicamente el widget `Row`, que proporciona una manera conveniente de organizar widgets horizontalmente.
+
+Puedes encontrar más información sobre el widget `Row` en la documentación oficial de Flutter: [Row Class](https://api.flutter.dev/flutter/widgets/Row-class.html).
 
 
-# primeraevidencia
+# PrimeraEvidencia
 
 A new Flutter project.
 
