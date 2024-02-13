@@ -1,4 +1,24 @@
-# odi
+---
+
+# Primera Evidencia de Flutter
+
+Este es un ejemplo básico de una aplicación Flutter que muestra un contador y permite al usuario aumentar, disminuir o restablecer el contador.
+
+## Funcionalidades
+
+- Incrementar contador: Presiona el botón con el ícono de '+' para aumentar el contador en 1.
+- Disminuir contador: Presiona el botón con el ícono de '-' para disminuir el contador en 1.
+- Restablecer contador: Presiona el botón con el ícono de '0' para restablecer el contador a 0.
+
+## Modificaciones Realizadas
+
+- Se agregó un botón adicional para restablecer el contador a 0.
+- Se utilizó un `Row` para alinear horizontalmente los botones.
+- Se ajustó el código para centrar el texto del contador verticalmente.
+- Se aplicó un tema personalizado para la apariencia de la aplicación.
+
+
+# primeraevidencia
 
 A new Flutter project.
 
